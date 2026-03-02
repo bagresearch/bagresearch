@@ -1,146 +1,170 @@
-🧬 Bag Research Innovation of Science & Technology (BRIST)
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=Advancing+Research.+Building+the+Future.;Industrial+IoT+%7C+Safety+Engineering+%7C+Climate+Technology;Founder+-+Saswata+Bag" /> </p>
-🏛 Research & Development Division
+<!-- ================= HEADER BANNER ================= -->
 
-Bag Research Innovation of Science & Technology (BRIST)
-📍 Guwahati, Assam, India
-📧 saswata@bagresearch.co.in
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=230&section=header&text=Bag%20Research%20Innovation%20of%20Science%20%26%20Technology&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=900&lines=Advancing+Research.+Building+the+Future.;Industrial+IoT+%7C+Embedded+Systems+%7C+Climate+Technology;Founder+-+Saswata+Bag;Innovation+Engine+of+BRIST" />
+</p>
+
+<!-- ================= PROFILE PHOTO ================= -->
+
+<p align="center">
+  <img src="https://github.com/bagresearch.png" width="200"/>
+</p>
+
+<h1 align="center">Saswata Bag</h1>
+<h3 align="center">Founder • Bag Research Innovation of Science & Technology (BRIST)</h3>
+
+<p align="center">
+📍 Guwahati, India <br>
+📧 saswata@bagresearch.co.in <br>
 📞 +91 8811960068
+</p>
 
-👨‍🔬 Founder & Lead Researcher
+---
 
-Saswata Bag
-Founder – Bag Research Innovation of Science & Technology (BRIST)
+<!-- ================= RESEARCH IMPACT ================= -->
 
-Innovator specializing in:
+## 🧬 Research Impact
 
-Embedded Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Projects-10-0A1F44?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ongoing-1-004080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Under%20Evaluation-1-002B5B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Completed-8-001F3F?style=for-the-badge"/>
+</p>
 
-Industrial IoT
+---
 
-Environmental Monitoring
+<!-- ================= ABOUT ================= -->
 
-Safety Engineering
+## 🧠 Research Overview
 
-Assistive Technologies
+Bag Research Innovation of Science & Technology (BRIST) focuses on:
 
-Focused on building real-world deployable systems using sensor networks, microcontrollers, AI integration, and industrial-grade monitoring systems.
+- Industrial IoT Systems  
+- Environmental Monitoring  
+- Embedded Safety Devices  
+- Assistive Technologies  
+- Real-Time Monitoring & Data Logging  
 
-📊 Research Impact Metrics
-Metric	Count
-Total Projects	10
-Ongoing Projects	1
-Under Evaluation	1
-Completed Projects	8
-Upcoming Projects	5+
-🧾 Active Research Portfolio (2022–2026)
-Year	Project Name	Funding Agency	Budget	Status
-2024	CoalMine Hazard Evaluation and Tracking Assessment Kit (CHETAK)	Center for Environment, IITG	5K	Completed
-2022–2026	Smart Safety Helmet for Accident Detection & Health Monitoring	DST	10K	Ongoing
-2024–2026	EMG-Controlled Wheelchair (Charaibeti)	NIF (DST)	1.2 Lakhs	Under Evaluation
-2025	Smart IoT Bin	Internal R&D Grant	5K	Completed
-2025	Smart Security Lock with Auto Attendance & Access Control	DigiTech Solutions	Sponsorship	Completed
-2024	Tetris on Arduino	KVIIT Guwahati & SIC (Govt. of India)	3K	Completed
-2024	Cyclone Pattern Detection using Satellite Data & AI/ML	DigiTech Solutions	Sponsorship	Completed
-2025	CHETAK 2.0	Internal Grant	20K	Completed
-2024	Reaction Time Tester using Arduino	KVIIT Guwahati & SIC	2K	Completed
-2026	Low-Cost Wastewater Filter for Flood-Prone Regions	DigiTech Solutions	Sponsorship	Completed
-🔬 Flagship Projects
-🚨 CHETAK – Coal Mine Hazard Evaluation and Tracking Assessment Kit
+All systems are designed for real-world deployment with practical validation and testing.
 
-Harmful Gas Detection
+---
 
-Landslide Alert
+<!-- ================= TECHNICAL EXPERTISE ================= -->
 
-Rescue Support System
+## 🛠 Technical Expertise
 
-Real-Time SMS Alert
+**Embedded Platforms**  
+Arduino (Uno, Mega, Nano) • ESP32 • Raspberry Pi  
 
-Data Logging with RTC & SD
+**IoT & Communication**  
+GSM (SIM900A) • GPS • RF Modules • SMS Alert Systems  
 
-🪖 Smart Safety Helmet
+**Sensor Integration**  
+MQ-4 • MQ-7 • MQ-8 • MQ-135 • MQ-136 • MG811  
+DHT11 • DHT22 • MAX30102 • RTC DS3231  
 
-Multi-sensor integration
+**Programming**  
+C++ • Arduino Development  
 
-Accident detection
+**Data Logging**  
+SD Card Modules • Real-Time Clock Integration  
 
-Worker health monitoring
+---
 
-Real-time industrial alerts
+<!-- ================= PROJECTS ================= -->
 
-Funded by DST
+## 📜 Research Projects (Publication Format)
 
-♿ EMG-Controlled Wheelchair (Charaibeti)
+### 1. Bag, S. (2024).  
+**CoalMine Hazard Evaluation and Tracking Assessment Kit (CHETAK).**  
+Budget: ₹5K. Status: Completed.
 
-Electromyography-based control
+---
 
-Assistive mobility technology
+### 2. Bag, S. (2025).  
+**CoalMine Hazard Evaluation and Tracking Assessment Kit (CHETAK) 2.0.**  
+Budget: ₹20K. Status: Completed.
 
-NIF (DST) backed evaluation project
+---
 
-🗑 Smart IoT Bin
+### 3. Bag, S. (2022–2026).  
+**Design and Development of Smart Safety Helmet for Accident Detection and Health Monitoring.**  
+Budget: ₹10K. Status: Ongoing.
 
-Automated waste detection
+---
 
-Full-bin alert system
+### 4. Bag, S. (2024–2026).  
+**EMG-Controlled Wheelchair (Charaibeti).**  
+Budget: ₹1.2 Lakhs. Status: Under Evaluation.
 
-IoT integration
+---
 
-🧠 Research Domains
-Domain	Focus Area
-Artificial Intelligence	Predictive analytics, hazard detection
-Industrial IoT	Smart sensors, mining safety, automation
-Safety Engineering	Worker safety systems
-Climate Technology	Environmental monitoring & disaster mitigation
-🛠 Technical Stack
+### 5. Bag, S. (2025).  
+**Smart IoT Bin for Automated Waste Monitoring.**  
+Budget: ₹5K. Status: Completed.
 
-Embedded Systems
-Arduino Uno, Mega, Nano, ESP32, Raspberry Pi
+---
 
-Communication Systems
-GSM (SIM900A), GPS, RF Modules
+### 6. Bag, S. (2025).  
+**Smart Security Lock with Auto Attendance & Unauthorized Access Prevention System.**  
+Status: Completed.
 
-Sensors
-MQ-4, MQ-7, MQ-8, MG811, MQ-135, MQ-136
-DHT11, DHT22
-MAX30102
-RTC DS3231
+---
 
-Programming
-C++ (Hardware Control & Data Processing)
+### 7. Bag, S. (2024).  
+**Detection of Cyclone Patterns Using Satellite Data and AI/ML.**  
+Status: Completed.
 
-🏆 Achievements
+---
 
-🥇 1st Prize – Disaster Management, Rajya Stariya Bal Vaigyanik Pradarshani
+### 8. Bag, S. (2024).  
+**Tetris on Arduino Mega – Educational Embedded Gaming System.**  
+Status: Completed.
 
-🥇 1st Prize – Research & Industrial Conclave Integration (RIC) 2024
+---
 
-🥇 1st Prize – Environmental Hackathon 2024
+### 9. Bag, S. (2024).  
+**Reaction Time Tester Using Arduino.**  
+Status: Completed.
 
-🏅 Best Theme – India International Science Festival
+---
 
-🤝 Research Collaborations
+### 10. Bag, S. (2026).  
+**Low-Cost Wastewater Filter for Flood-Prone Regions.**  
+Status: Completed.
 
-IIT Guwahati
+---
 
-National Innovation Foundation
+<!-- ================= FUTURE SCOPE ================= -->
 
-Department of Science & Technology
+## 🔬 Future Scope
 
-📈 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bagresearch&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagresearch&theme=tokyonight" /> </p>
-📫 Contact
+- AI-driven predictive hazard analytics  
+- Expanded wireless monitoring networks  
+- Multi-sensor fusion safety systems  
+- Scalable industrial safety infrastructure  
 
-📍 Guwahati, Assam, India
-📞 +91 8811960068
-📧 saswata@bagresearch.co.in
+---
 
-📧 saswata7928@gmail.com
+<!-- ================= GITHUB STATS ================= -->
 
-🏛 BRIST
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bagresearch&show_icons=true&theme=default" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagresearch&layout=compact" height="160"/>
+</p>
+
+---
+
+<p align="center">
 Advancing Research. Building the Future.
-
-© 2026 Bag Research Innovation of Science & Technology (BRIST)
-All Rights Reserved
+</p>
