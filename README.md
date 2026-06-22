@@ -1,267 +1,167 @@
+<div align="center">
+
 # Hi 👋, I'm Saswata Bag
 
-### Student Researcher | Innovator | Developer
+### Student Researcher • Innovator • Developer
 
-Building Technology for Safety, Sustainability, and Social Impact.
+Building Technology for Safety, Sustainability & Social Impact
 
-I am a student researcher and innovator working in the fields of Embedded Systems, Internet of Things (IoT), Artificial Intelligence, Environmental Monitoring, Industrial Safety Technologies, and Smart Automation. My goal is to develop practical, affordable, and impactful technologies that address real-world challenges.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Student+Researcher;Embedded+Systems+Developer;IoT+%26+AI+Innovator;Industrial+Safety+Researcher" />
+
+<br>
+
+[![Website](https://img.shields.io/badge/Website-BagResearch-blue?style=for-the-badge)](https://www.bagresearch.co.in)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:info@bagresearch.co.in)
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 About Me
 
-* 🔬 Student researcher focused on solving real-world problems through technology.
-* 🏆 Multiple award-winning innovation projects.
-* 🌱 Currently working on **CHETAK 2.0**.
-* 🤖 Interested in AI, IoT, Cyber Security, Embedded Systems, and Space Technologies.
-* 💡 Passionate about industrial safety, disaster management, environmental monitoring, and healthcare technologies.
-* 🌐 Website: https://www.bagresearch.co.in
-* 📧 Email: [info@bagresearch.co.in](mailto:info@bagresearch.co.in)
+</div>
+
+* 🔬 Student researcher working on real-world technological solutions
+* 🏆 Multiple award-winning innovation projects
+* 🌱 Currently developing **CHETAK 2.0**
+* 🤖 Interested in AI, IoT, Embedded Systems, Cyber Security & Space Technologies
+* 💡 Passionate about industrial safety, disaster management, healthcare, and environmental monitoring
 
 ---
+
+<div align="center">
 
 ## 🏆 Awards & Recognition
 
-### 🥇 Theme Wise Best Team Award
+</div>
 
+🥇 **Theme Wise Best Team Award**
 India International Science Festival (IISF)
 
-Organized by the Ministry of Science & Technology, Ministry of Earth Sciences, Government of Assam, and Vijnana Bharati (VIBHA) at IIT Guwahati.
+🥇 **Winner – Scientifique Model Presentation**
+Research & Industrial Conclave Integration '24, IIT Guwahati
 
----
+🏅 **Special Prize**
+Environmental Hackathon 2024, Centre for the Environment, IIT Guwahati
 
-### 🥇 Winner – Scientifique Model Presentation
-
-Research & Industrial Conclave Integration '24
-
-Organized by the Students Academic Board, IIT Guwahati and IIT Guwahati Research Park.
-
-**Project:**
-
-* Smart Safety Helmet for the Detection of Accidents and Monitoring Health
-
----
-
-### 🏅 Special Prize
-
-Environmental Hackathon 2024
-
-Centre for the Environment, IIT Guwahati
-
-**Project:**
-
-* Coal Mine Hazard Evaluation and Tracking Assessment Kit (CHETAK)
-
----
-
-### 🥇 1st Prize – State Level
-
+🥇 **1st Prize – State Level**
 Rajya Stariya Bal Vaigyanik Pradarshani (RSVBP) 2024
 
-Theme: Disaster Management
-
-**Project:**
-
-* Coal Mine Hazard Evaluation and Tracking Assessment Kit (CHETAK)
-
 ---
+
+<div align="center">
 
 ## 💰 Research Funding & Sponsorships
 
-| Organization                         | Support                                    |
-| ------------------------------------ | ------------------------------------------ |
-| Qiskitq Technology                   | ₹1.2 Lakhs for CHETAK 2.0                  |
-| National Innovation Foundation (DST) | ₹1.2 Lakhs for EMG Controlled Wheelchair   |
-| Department of Science & Technology   | Funding for Smart Safety Helmet            |
-| DIGITEK Solutions                    | Sponsorship for Multiple Research Projects |
-| KV IIT Guwahati                      | Project Support & Grants                   |
-| Internal R&D Grants                  | Smart IoT Bin Development                  |
+</div>
+
+| Organization                         | Support                                |
+| ------------------------------------ | -------------------------------------- |
+| Qiskitq Technology                   | ₹1.2 Lakhs – CHETAK 2.0                |
+| National Innovation Foundation (DST) | ₹1.2 Lakhs – EMG Controlled Wheelchair |
+| Department of Science & Technology   | Smart Safety Helmet                    |
+| DIGITEK Solutions                    | Multiple Sponsored Research Projects   |
+| KV IIT Guwahati                      | Innovation Grants                      |
+| Internal R&D Grant                   | Smart IoT Bin                          |
 
 ---
 
-## 🔬 Major Research Projects
+<div align="center">
+
+## 🔬 Featured Projects
+
+</div>
 
 ### ⛏️ CHETAK
 
-**Coal Mine Hazard Evaluation and Tracking Assessment Kit**
-
-A smart coal mine safety monitoring system designed to detect hazardous gases, monitor environmental conditions, and generate real-time alerts.
-
-**Awards:**
-
-* 1st Prize – RSVBP 2024
-* Special Prize – Environmental Hackathon 2024
-
----
-
-### ⛏️ CHETAK 2.0
-
-Funded by Qiskitq Technology with ₹1.2 Lakhs.
-
-The next-generation version of CHETAK featuring enhanced monitoring capabilities, intelligent analytics, and advanced communication systems.
-
----
+Coal Mine Hazard Evaluation and Tracking Assessment Kit
 
 ### 🔐 SURAKSHA
 
-**Smart Security Lock with Auto Attendance System and Auto Unwanted Access Stopper System**
+Smart Security Lock with Auto Attendance System and Unauthorized Access Prevention
 
-RFID and biometric-based security platform with:
+### ♿ EMG Controlled Wheelchair
 
-* Automatic attendance recording
-* Classroom-specific access control
-* Unauthorized access prevention
-* Teacher-wide access privileges
-* Student movement monitoring
+Hands-free mobility solution using electromyography signals
 
-Supported by DIGITEK Solutions.
+### 🌪️ Cyclone Detection Using Satellite Data & AI/ML
 
----
-
-### ♿ Electromyography (EMG) Controlled Wheelchair
-
-A hands-free mobility solution using EMG signals to assist individuals with physical disabilities.
-
-Funded by the National Innovation Foundation (DST).
-
----
+Weather monitoring and cyclone prediction platform
 
 ### 🪖 Smart Safety Helmet
 
-Design and Development of Smart Safety Helmet for the Detection of Accidents and Monitoring Health.
+Accident detection and worker health monitoring system
 
-Features:
+### 💧 Emergency Wastewater Filter
 
-* Accident detection
-* Health monitoring
-* Emergency alert generation
-* Worker safety enhancement
-
-Funded by the Department of Science & Technology.
+Low-cost water purification system for flood-prone regions
 
 ---
 
-### 🌪️ Detection of Cyclone Patterns Using Satellite Data and AI/ML
+<div align="center">
 
-Weather monitoring and cyclone prediction platform integrating:
+## 🛠️ Languages & Tools
 
-* Satellite observations
-* Environmental sensors
-* AI/ML algorithms
-* Local weather station data
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,arduino,raspberrypi,git,github,vscode" />
 
-**Award:**
-
-* Best Theme Award – IISF
-
-Supported by DIGITEK Solutions.
+</div>
 
 ---
 
-### 🗑️ Smart IoT Bin
+<div align="center">
 
-An intelligent waste management system capable of monitoring waste levels and generating collection alerts.
+## 📊 GitHub Statistics
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bagresearch&show_icons=true&theme=tokyonight" />
 
-### 🎮 Tetris on Arduino
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagresearch&layout=compact&theme=tokyonight" />
 
-An educational Arduino Mega-based implementation of the classic Tetris game.
-
----
-
-### ⚡ Reaction Time Tester Using Arduino
-
-A cognitive assessment system capable of measuring reaction time with millisecond-level accuracy.
+</div>
 
 ---
 
-### 💧 Low-Cost Wastewater Filter for Flood-Prone Regions
-
-A portable and affordable water purification system developed for disaster relief and emergency water supply.
-
-Supported by DIGITEK Solutions.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming
-
-* Python
-* C++
-* HTML
-* CSS
-* JavaScript
-
-### Embedded Systems & IoT
-
-* Arduino Uno, Mega, Nano
-* ESP32
-* Raspberry Pi
-* RFID Systems
-* GSM Communication
-* GPS Tracking
-* Wireless Sensor Networks
-
-### Sensors & Technologies
-
-* MQ-4, MQ-7, MQ-8
-* MQ-135, MQ-136
-* MG811
-* DHT11 & DHT22
-* MAX30102
-* RTC Modules
-* SD Card Data Logging
-
----
+<div align="center">
 
 ## 🎯 Research Interests
 
-* Artificial Intelligence & Machine Learning
-* Internet of Things (IoT)
-* Embedded Systems
-* Cyber Security
-* Industrial Safety Technologies
-* Environmental Monitoring
-* Disaster Management
-* Healthcare Technologies
-* Satellite Data Analytics
-* Smart Automation Systems
+Artificial Intelligence • Machine Learning • IoT • Embedded Systems • Industrial Safety • Environmental Monitoring • Disaster Management • Satellite Data Analytics • Smart Automation
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 👨‍👩‍👧‍👦 Inspiration
 
-My journey is inspired by the constant support and guidance of my family:
+**Dr. Subhendu Sekhar Bag**
+Professor, Department of Chemistry, IIT Guwahati
+Head, Central Instrument Facility (CIF)
 
-* **Dr. Subhendu Sekhar Bag** – Professor, Department of Chemistry, IIT Guwahati and Head of Central Instrument Facility (CIF)
-* **Aditi Bag**
-* **Shreyasi Bag**
+**Aditi Bag**
 
-Their encouragement continues to motivate me to innovate and contribute through technology.
+**Shreyasi Bag**
 
----
-
-## 📈 Current Focus
-
-* CHETAK 2.0 Development
-* AI-Based Hazard Prediction Systems
-* Smart Industrial Safety Platforms
-* Environmental Monitoring Networks
-* Disaster Management Technologies
-* Intelligent Healthcare Solutions
+</div>
 
 ---
+
+<div align="center">
 
 ## 📫 Connect With Me
 
-🌐 Website: https://www.bagresearch.co.in
+🌐 https://www.bagresearch.co.in
 
-📧 Email: [info@bagresearch.co.in](mailto:info@bagresearch.co.in)
+📧 [info@bagresearch.co.in](mailto:info@bagresearch.co.in)
 
-💻 GitHub: https://github.com/bagresearch
+</div>
 
 ---
 
-> *"Innovation is not just about creating technology; it is about creating solutions that improve lives."*
+<div align="center">
+
+### "Innovation is not just about creating technology; it is about creating solutions that improve lives."
+
+</div>
