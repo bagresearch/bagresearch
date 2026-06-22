@@ -1,127 +1,121 @@
-I am a student researcher and innovator specializing in Embedded Systems, Internet of Things (IoT), Artificial Intelligence, Environmental Monitoring, Industrial Safety Technologies, and Smart Automation. My goal is to develop practical and affordable solutions that address real-world challenges and create a positive impact on society.
+<div align="center">
 
-## About Me
+# Hi 👋, I'm Saswata Bag
 
-My work focuses on combining electronics, sensors, data analytics, and intelligent systems to solve problems related to safety, healthcare, disaster management, environmental protection, and automation. I enjoy transforming ideas into working prototypes and continuously exploring new technologies.
+### Student Researcher • Innovator • Developer
 
-## Areas of Interest
+Building Technology for Safety, Sustainability & Social Impact
 
-* Embedded Systems
-* Internet of Things (IoT)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Embedded+Systems+Developer;IoT+%26+AI+Researcher;Industrial+Safety+Innovator;Environmental+Monitoring+Enthusiast;Creator+of+CHETAK+and+SURAKSHA" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+* 🔬 Student researcher working on real-world technological solutions
+* 🏆 Multiple award-winning innovation projects
+* 🌱 Currently developing **CHETAK 2.0**
+* 🤖 Interested in AI, IoT, Embedded Systems, Cyber Security & Space Technologies
+* 💡 Passionate about solving industrial safety and environmental challenges
+* 🌐 Website: https://www.bagresearch.co.in
+* 📧 Email: [info@bagresearch.co.in](mailto:info@bagresearch.co.in)
+
+---
+
+## 🏆 Awards & Achievements
+
+* 🥇 1st Prize – Rajya Stariya Bal Vaigyanik Pradarshani
+* 🥇 1st Prize – Research & Industrial Conclave Integration (RIC) 2024
+* 🥇 1st Prize – Environmental Hackathon 2024, IIT Guwahati
+* 🏅 Best Theme Award – India International Science Festival (IISF) 2024
+* 🏅 Special Prize – Centre for the Environment, IIT Guwahati
+
+---
+
+## 💰 Research Funding & Support
+
+| Organization                             | Project                                        |
+| ---------------------------------------- | ---------------------------------------------- |
+| Qiskitq Technology                       | CHETAK 2.0                                     |
+| Department of Science & Technology (DST) | Smart Safety Helmet                            |
+| National Innovation Foundation (NIF-DST) | EMG Controlled Wheelchair                      |
+| DIGITEK Solutions                        | SURAKSHA, Cyclone Detection, Wastewater Filter |
+| KV IIT Guwahati                          | Tetris on Arduino, Reaction Time Tester        |
+| Internal R&D Grant                       | Smart IoT Bin                                  |
+
+---
+
+## 🔬 Featured Projects
+
+### ⛏️ CHETAK
+
+Coal Mine Hazard Evaluation and Tracking Assessment Kit for hazardous gas detection, environmental monitoring, and worker safety.
+
+### 🔐 SURAKSHA
+
+Smart Security Lock with Auto Attendance System and Unauthorized Access Prevention.
+
+### ♿ Electromyography (EMG) Controlled Wheelchair
+
+Hands-free mobility solution using EMG signals for differently-abled individuals.
+
+### 🌪️ Cyclone Detection Using Satellite Data & AI/ML
+
+Weather monitoring and cyclone prediction system integrating sensor data and machine learning.
+
+### 🪖 Smart Safety Helmet
+
+Accident detection and worker health monitoring with automated emergency alerts.
+
+### 💧 Emergency Wastewater Filter
+
+Low-cost portable water purification solution for flood-prone regions.
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,arduino,raspberrypi,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagresearch\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagresearch\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 Research Interests
+
 * Artificial Intelligence & Machine Learning
-* Cybersecurity
-* Environmental Monitoring
+* Internet of Things (IoT)
+* Embedded Systems
 * Industrial Safety Technologies
-* Disaster Management Solutions
+* Environmental Monitoring
+* Disaster Management
 * Satellite Data Analytics
-* Smart Automation Systems
+* Smart Automation
 
-## Technical Skills
+---
 
-### Programming
+## 👨‍👩‍👧‍👦 Inspiration
 
-* C++
-* Python
-* HTML
-* CSS
-* JavaScript
+My research journey is inspired by the constant support and guidance of:
 
-### Hardware & Embedded Systems
-
-* Arduino Uno, Mega, Nano
-* ESP32
-* Raspberry Pi
-* RFID Systems
-* Sensor Integration
-* GSM & GPS Communication
-* Data Logging Systems
-
-### Sensors & Technologies
-
-* MQ Series Gas Sensors
-* DHT11 & DHT22
-* MAX30102 Pulse Oximeter
-* RTC Modules
-* SD Card Data Storage
-* Wireless Communication Modules
-
-## Research Projects
-
-### CHETAK – Coal Mine Hazard Evaluation and Tracking Assessment Kit
-
-A smart coal mine safety system designed to detect hazardous gases, monitor environmental conditions, and provide real-time alerts for worker safety.
-
-### CHETAK 2.0
-
-The next-generation version of CHETAK, incorporating enhanced monitoring, intelligent analytics, and advanced communication capabilities.
-
-### SURAKSHA – Smart Security Lock with Auto Attendance System
-
-An RFID and biometric-based security platform featuring attendance automation, classroom-specific access control, and unauthorized access prevention.
-
-### Electromyography (EMG) Controlled Wheelchair
-
-A hands-free mobility solution that uses EMG signals to assist individuals with physical disabilities.
-
-### Smart Safety Helmet
-
-A wearable safety device for accident detection, health monitoring, and emergency alert generation.
-
-### Detection of Cyclone Patterns Using Satellite Data and AI/ML
-
-A weather monitoring and forecasting system that combines sensor data, satellite observations, and machine learning techniques.
-
-### Smart IoT Bin
-
-An automated waste management solution that monitors waste levels and provides collection alerts.
-
-### Reaction Time Tester Using Arduino
-
-A device that measures human reaction time with millisecond-level precision for educational and cognitive assessment purposes.
-
-### Low-Cost Wastewater Filter for Flood-Prone Regions
-
-A portable and affordable water purification system designed to provide safe drinking water during emergencies and natural disasters.
-
-## Awards & Recognition
-
-* 1st Prize – Rajya Stariya Bal Vaigyanik Pradarshani
-* 1st Prize – Research & Industrial Conclave Integration (RIC) 2024
-* 1st Prize – Environmental Hackathon 2024, IIT Guwahati
-* Best Theme Award – India International Science Festival (IISF)
-
-## Research Funding & Support
-
-* Qiskitq Technology
-* Department of Science & Technology (DST)
-* National Innovation Foundation (NIF)
-* DIGITEK Solutions
-* Internal R&D Grants
-* KV IIT Guwahati
-
-## Current Focus
-
-* CHETAK 2.0 Development
-* AI-Based Hazard Prediction Systems
-* Smart Industrial Safety Technologies
-* Environmental Monitoring Networks
-* Disaster Management Solutions
-* Intelligent Automation Systems
-
-## Inspiration
-
-My research journey has been greatly inspired by my family:
-
-* Dr. Subhendu Sekhar Bag – Professor, Department of Chemistry, IIT Guwahati, and Head of Central Instrument Facility (CIF)
+* Dr. Subhendu Sekhar Bag
 * Aditi Bag
 * Shreyasi Bag
 
-Their encouragement and support continue to motivate me to explore, innovate, and contribute through technology.
+---
 
-## Connect With Me
+<div align="center">
 
-* Website: https://www.bagresearch.co.in
-* Email: info@bagresearch.co.in
+### "Innovation is not just about creating technology; it is about creating solutions that improve lives."
 
-
-*"Innovation is not just about creating technology; it is about creating solutions that improve lives."*
+</div>
