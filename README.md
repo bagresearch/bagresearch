@@ -126,7 +126,7 @@ Low-cost water purification system for flood-prone regions
 
 ## 🎯 Research Interests
 
-Artificial Intelligence • Machine Learning • IoT • Embedded Systems • Industrial Safety • Environmental Monitoring • Disaster Management • Satellite Data Analytics • Smart Automation
+Artificial Intelligence • Machine Learning • IoT • Embedded Systems • Industrial Safety • Environmental Monitoring • Disaster Management • Devoloping • Smart Automation 
 
 </div>
 
