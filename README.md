@@ -135,6 +135,10 @@ Artificial Intelligence • Machine Learning • IoT • Embedded Systems • In
 <div align="center">
 
 ## 👨‍👩‍👧‍👦 Inspiration
+** Dr. Subhendu Sekhar Bag (Father)** — 
+ Professor in Department of Chemistry at IIT Guwahati and Head of the Central Instrument Facility (CIF). He is my true inspiration and guiding light in my research journey.
+Aditi Bag (Mother) — She is my true inspiration and the foundation of my strength. Her unwavering support and encouragement have shaped who I am today.
+Shreyasi Bag (Sister) — She is the person who motivates me always. Her constant encouragement and belief in my abilities drive me to push boundaries and achieve excellence. 
 
 **Dr. Subhendu Sekhar Bag**
 Professor, Department of Chemistry, IIT Guwahati
