@@ -74,29 +74,44 @@ Rajya Stariya Bal Vaigyanik Pradarshani (RSVBP) 2024
 
 </div>
 
-### ⛏️ CHETAK
+### CHETAK:
 
-Coal Mine Hazard Evaluation and Tracking Assessment Kit
+Coal Mine Hazard Evaluation and Tracking Assessment Kit (CHETAK): A smart coal mine safety system detecting hazardous gases with real-time alerts and data logging.
 
-### 🔐 SURAKSHA
+### SURAKSHA:
 
-Smart Security Lock with Auto Attendance System and Unauthorized Access Prevention
+RFID and biometric-based smart lock for school attendance with unwanted access prevention. Features class-specific access control preventing students from entering different classrooms, exit limit restricting students after exceeding allowed exit-entry attempts, and teacher can access any classroom , ensuring complete safety and discipline
 
-### ♿ EMG Controlled Wheelchair
+### Electromyography Controlled Wheelchair (Charaibeti):
 
-Hands-free mobility solution using electromyography signals
+ A hands-free mobility solution using electromyography sensors for disabled individuals.
 
-### 🌪️ Cyclone Detection Using Satellite Data & AI/ML
+###  Detection of Cyclone Patterns Using Satellite Data and AI/ML:
 
-Weather monitoring and cyclone prediction platform
+Arduino-based weather station featuring anemometer, BMP pressure sensor, SD card data logging, and I2C LCD display. Collects local atmospheric data and predicts cyclone upon crossing tresh hold . 
 
-### 🪖 Smart Safety Helmet
+### Smart Safety Helmet:
 
-Accident detection and worker health monitoring system
+Design and Development of Smart Safety Helmet for the Detection of Accidents and Monitoring the Health: Monitors environmental conditions and provides automated emergency alerts for worker safety.
 
-### 💧 Emergency Wastewater Filter
+### A Cheap and User-friendly wastewater filter for application in Flood prone region to mitigate water crisis during emergency:
 
-Low-cost water purification system for flood-prone regions
+Low-cost portable filtration system designed for disaster relief. Effectively purifies contaminated floodwater using locally available materials, ensuring safe drinking water during emergency situations. 
+
+### Smart IoT Bin: 
+
+An IoT-based waste management system that automates waste detection and sends alerts when full.
+
+### Tetris on Arduino: 
+A fun and educational LED-based Tetris game on Arduino Mega.
+
+### Reaction Time Tester Using Arduino:
+
+Arduino-based device with LCD display prompting users to press a joystick button. Measures and displays precise reaction time in milliseconds for cognitive and reflex testing applications. 
+
+### Coal Mine Hazard Evaluation and Tracking Assessment Kit (CHETAK) Version 2 : 
+
+Project Details Coming Soon.
 
 ---
 
