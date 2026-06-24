@@ -57,14 +57,14 @@ Rajya Stariya Bal Vaigyanik Pradarshani (RSVBP) 2024
 
 </div>
 
-| Organization                         | Support                                |
+| Organization                         | Funding / Sponsorships                 |
 | ------------------------------------ | -------------------------------------- |
 | Qiskitq Technology                   | ₹1.2 Lakhs – CHETAK 2.0                |
 | National Innovation Foundation (DST) | ₹1.2 Lakhs – EMG Controlled Wheelchair |
-| Department of Science & Technology   | Smart Safety Helmet                    |
+| Department of Science & Technology   | ₹10,000    -Smart Safety Helmet                    |
 | DIGITEK Solutions                    | Multiple Sponsored Research Projects   |
 | KV IIT Guwahati                      | Innovation Grants                      |
-| Internal R&D Grant                   | Smart IoT Bin                          |
+| Internal R&D Grant                   | Smart IoT Bin , Chetak v1              |
 
 ---
 
